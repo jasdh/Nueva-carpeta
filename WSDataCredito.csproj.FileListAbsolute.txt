@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\bin\WSDataCredito.dll.config
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\bin\WSDataCredito.dll
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\bin\WSDataCredito.pdb
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\bin\MySql.Data.dll
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\bin\MySql.Data.xml
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\obj\Release\WSDataCredito.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\obj\Release\WSDataCredito.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\obj\Release\WSDataCredito.dll
+D:\Documentos\Visual Studio 2017\Projects\WSDataCredito\obj\Release\WSDataCredito.pdb

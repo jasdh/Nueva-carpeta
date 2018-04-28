@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSDataCredito", "WSDataCredito.csproj", "{A08B88F9-155D-4E2D-9508-8C86EC1A91D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08B88F9-155D-4E2D-9508-8C86EC1A91D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08B88F9-155D-4E2D-9508-8C86EC1A91D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08B88F9-155D-4E2D-9508-8C86EC1A91D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08B88F9-155D-4E2D-9508-8C86EC1A91D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC34A0AB-B54C-44C3-ACD2-7AC8560F5867}
+	EndGlobalSection
+EndGlobal
